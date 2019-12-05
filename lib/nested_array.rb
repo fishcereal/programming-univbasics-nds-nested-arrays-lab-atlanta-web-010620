@@ -22,6 +22,7 @@ def assembled_matrix
   array = [ENNET_HOUSE.sort,ENFIELD_TENNIS_ACADEMY.sort]
   # array[0].sort
   # array[1].sort 
+  return array 
 end
 
 def array_literal_matrix
